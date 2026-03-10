@@ -1,0 +1,13 @@
+.DS_Store
+
+# Local environment secrets
+.env
+.env.*
+!.env.example
+
+# Runtime and local data
+data/
+*.log
+
+# Editor
+.vscode/
